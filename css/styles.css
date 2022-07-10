@@ -11389,6 +11389,10 @@ hr.divider-light {
   }
 }
 
+#mission {
+padding-top: 50
+}
+
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
