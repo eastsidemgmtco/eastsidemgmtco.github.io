@@ -581,10 +581,6 @@ progress {
   text-transform: uppercase;
 }
 
-.bi bi-envelope:hover {
-  color: #f4623a;
-}
-
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem;
