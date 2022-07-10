@@ -581,6 +581,10 @@ progress {
   text-transform: uppercase;
 }
 
+.bi bi-envelope:hover {
+  color: #f4623a;
+}
+
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem;
@@ -11387,7 +11391,7 @@ hr.divider-light {
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
     color: #f4623a;
   }
-}
+}git
 
 header.masthead {
   padding-top: 10rem;
