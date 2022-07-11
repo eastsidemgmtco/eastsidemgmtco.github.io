@@ -7374,7 +7374,7 @@ textarea.form-control-lg {
 }
 
 .mb-4 {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 4.5rem !important;
 }
 
 .mb-5 {
@@ -11387,10 +11387,6 @@ hr.divider-light {
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
     color: #f4623a;
   }
-}
-
-#mission {
-padding-top: 10%;
 }
 
 header.masthead {
